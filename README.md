@@ -1,7 +1,7 @@
 Welcome to the Gatsby Blog Template! This open-source repository provides a customizable foundation for creating your own personal or professional blog using Gatsby, a popular React-based static site generator. Contribute to this project or use it as a starting point for your blogging needs.
 
 Author: [preetsuthar](https://preetsuthar.me) | [github](https://github.com/preetsuthar17)
-
+![Alt text](image.png)
 Key Features:
 --------------------------------
 
