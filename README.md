@@ -5,6 +5,10 @@ Author: [preetsuthar](https://preetsuthar.me) | [github](https://github.com/pree
 
 ![Alt text](image.png)
 
+
+<video src="./20230729-1401-48.8453304.mp4" style="max-width: 730px;"></video>
+
+
 </br>
 Key Features:
 --------------------------------
