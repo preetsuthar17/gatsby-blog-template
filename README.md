@@ -2,6 +2,7 @@ Welcome to the Gatsby Blog Template! This open-source repository provides a cust
 
 Author: [preetsuthar](https://preetsuthar.me) | [github](https://github.com/preetsuthar17)
 ![Alt text](image.png)
+</br>
 Key Features:
 --------------------------------
 
